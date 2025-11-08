@@ -6,4 +6,5 @@ you play this by clicking enter unless it says (y/n) that stands for yes/no.
 if you fail you always have another chance.
 you will keep goin!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 also, i know it might seem weird, but trust me, dont press enter before answering yes or no. It will give you a weirder answer
+also i recommend opening this file with a normal python thing NOT A CODE EDITOR
 thx for getting - blitziskewl/rosie
